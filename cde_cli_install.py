@@ -23,7 +23,7 @@ def main(args):
 
     ### Manually upload the CDE CLI before running the below commands:
 
-    os.system("mv ~/Documents/cde_first_steps/cli/cde ~/usr/local/bin")
+    os.system("mv ~/Documents/cde_cli_install/cli/cde ~/usr/local/bin")
     os.system("chmod 777 ~/usr/local/bin/cde")
 
     ### Do not run these
